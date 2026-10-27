@@ -1,0 +1,21 @@
+LIBRARY version
+EXPORTS
+    GetFileVersionInfoA=C:\Windows\System32\version.GetFileVersionInfoA @1
+    GetFileVersionInfoE=C:\Windows\System32\version.GetFileVersionInfoE @2
+    GetFileVersionInfoByHandle=C:\Windows\System32\version.GetFileVersionInfoByHandle @3
+    GetFileVersionInfoExA=C:\Windows\System32\version.GetFileVersionInfoExA @4
+    GetFileVersionInfoExW=C:\Windows\System32\version.GetFileVersionInfoExW @5
+    GetFileVersionInfoSizeA=C:\Windows\System32\version.GetFileVersionInfoSizeA @6
+    GetFileVersionInfoSizeE=C:\Windows\System32\version.GetFileVersionInfoSizeE @7
+    GetFileVersionInfoSizeExA=C:\Windows\System32\version.GetFileVersionInfoSizeExA @8
+    GetFileVersionInfoSizeExW=C:\Windows\System32\version.GetFileVersionInfoSizeExW @9
+    GetFileVersionInfoSizeW=C:\Windows\System32\version.GetFileVersionInfoSizeW @10
+    GetFileVersionInfoW=C:\Windows\System32\version.GetFileVersionInfoW @11
+    VerFindFileA=C:\Windows\System32\version.VerFindFileA @12
+    VerFindFileW=C:\Windows\System32\version.VerFindFileW @13
+    VerInstallFileA=C:\Windows\System32\version.VerInstallFileA @14
+    VerInstallFileW=C:\Windows\System32\version.VerInstallFileW @15
+    VerLanguageNameA=C:\Windows\System32\version.VerLanguageNameA @16
+    VerLanguageNameW=C:\Windows\System32\version.VerLanguageNameW @17
+    VerQueryValueA=C:\Windows\System32\version.VerQueryValueA @18
+    VerQueryValueW=C:\Windows\System32\version.VerQueryValueW @19
